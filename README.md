@@ -10,6 +10,6 @@ Open src\OpenZWaveUWP.sln
 
 ### UWP Sample app with DanaLock:
 
-![Code Pipeline example](readme/2017-01-31 15_03_50-ZWave Controller.png)
+![Screenshot](/readme/2017-01-31 15_03_50-ZWave Controller.png)
 
 Works perfectly!
